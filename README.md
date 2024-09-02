@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="www.linkedin.com/in/david-walsh33">
+<a href="https://www.linkedin.com/in/david-walsh33">
 <img align="left" alt="David Walsh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
