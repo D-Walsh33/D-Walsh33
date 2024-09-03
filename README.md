@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there I'm David Walsh 👋
+I am a computer science undergrad at Oregon State University.
+- 🌱 I’m currently learning data visualization using Python ie: (Jupyter notebooks, Pandas, Matplotlib, Seaborn)
 
+I can be reached via Linkedin at https://www.linkedin.com/in/david-walsh33"
 <!--
 **D-Walsh33/D-Walsh33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://www.linkedin.com/in/david-walsh33">
-<img align="left" alt="David Walsh" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
