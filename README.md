@@ -2,7 +2,7 @@
 I am a computer science undergrad at Oregon State University.
 - 🌱 I’m currently learning data visualization using Python ie: (Jupyter notebooks, Pandas, Matplotlib, Seaborn)
 
-I can be reached via Linkedin at https://www.linkedin.com/in/david-walsh33"
+I can be reached via Linkedin at https://www.linkedin.com/in/david-walsh33
 <!--
 **D-Walsh33/D-Walsh33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
